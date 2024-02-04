@@ -1,4 +1,4 @@
-/BC-/***************************************************
+/***************************************************
   This is an example for the Adafruit Thermocouple Sensor w/MAX31855K
 
   Designed specifically to work with the Adafruit Thermocouple Sensor
